@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Sanghoon Lee (상훈)
 
-<!--
-**clover-clever/clover-clever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate at Hanyang University majoring in Future Automotive Engineering.  
+I'm currently developing electric vehicles for **Formula Student Korea** with [RACE Hanyang University](https://www.racehanyang.com/) 🏎️⚡
 
-Here are some ideas to get you started:
+## 🔧 Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔌 Power electronics (inverters, EMI control, switching converters)
+- 🎛️ Embedded systems (STM32, ATmega, AURIX TC275, bare-metal C)
+- 🛠️ Motor control (FOC, 6-Step, sensorless control, digital PI tuning)
+- 🔋 Battery management systems (BMS, ADBMS6830, passive balancing)
+- 🚀 UAV & drone systems (flight control, hybrid ground-air mobility)
+- 📡 Real-time control & telemetry (CAN, RTOS, hardware abstraction)
+- ✨ Avionics & safety-critical embedded software
+
+## 🧠 Blog & Activity
+
+- 📘 Tech Blog: [https://clover-clever.github.io](https://clover-clever.github.io)
+- 👨‍💻 GitHub: [@clover-clever](https://github.com/clover-clever)
+- 🏁 Team RACE Hanyang: [www.racehanyang.com](https://www.racehanyang.com/)
+
+## 📬 Contact
+
+- 📧 Email: akdrhaktapfhs1@gmail.com
+
+---
+
+> This profile is auto-displayed on my GitHub main page.  
+> Check out my blog for Formula Student EV insights, drone control, and power electronics design.
