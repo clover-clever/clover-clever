@@ -14,6 +14,19 @@
 - 🔧 Passionate about embedded systems, control theory, and high-performance EVs
 
 ---
+### 💻 Programming Skills & Tools
+
+#### 🧬 Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
+#### 🧰 Tools & Platforms
+![KiCad](https://img.shields.io/badge/KiCad-314CB3?style=flat-square&logo=kicad&logoColor=white)
+![CATIA](https://img.shields.io/badge/CATIA-005386?style=flat-square&logo=dassaultsystemes&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+
+---
 
 ### 🛠️ Interests & Projects
 
