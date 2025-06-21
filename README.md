@@ -17,12 +17,10 @@
 
 ### 🛠️ Interests & Projects
 
-- 🔌 **Power Electronics**: Inverters, SiC/GaN switching, EMI mitigation  
-- 🛠️ **Motor Control**: Sensorless FOC, Deadbeat, 6-Step, Digital PI tuning  
-- 🔋 **Battery Management Systems**: ADBMS6830, passive balancing, CAN monitoring  
+- 🔌 **Power Electronics**: Efficiency, Regulators, Inverters, SiC/GaN switching, EMI mitigation  
+- 🛠️ **Motor Control**: Sensorless FOC, Deadbeat, 6-Step, Digital PI tuning   
 - 🎛️ **Embedded Systems**: STM32, ATmega, AURIX TC275 (bare-metal C, RTOS)  
-- 🚀 **Drones & UAVs**: Dual-mode flight/ground mobility, real-time control  
-- 📡 **Telemetry & Control**: CAN bus, RTOS abstraction, safety-critical SW  
+- 🚀 **Drones & UAVs**: 🌍 Tri-Domain Drone (Land / Air / Sea), real-time control  
 - 🛰️ **Avionics**: Robust firmware architecture, high-reliability designs  
 
 ---
