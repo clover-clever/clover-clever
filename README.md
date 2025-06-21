@@ -1,29 +1,51 @@
-# 👋 Hi, I'm Sanghoon Lee (상훈)
+<h2 align="center">👋 Hi, I'm Sanghoon Lee (상훈)</h2>
 
-I'm an undergraduate at Hanyang University majoring in Future Automotive Engineering.  
-I'm currently developing electric vehicles for **Formula Student Korea** with [RACE Hanyang University](https://www.racehanyang.com/) 🏎️⚡
+<p align="center">
+  💡 Future Automotive Engineering @ Hanyang University  
+  🏎️ Formula Student EV | 🔋 Power Electronics | 🚀 Drones | 🎛️ Embedded Systems  
+</p>
 
-## 🔧 Interests
+---
 
-- 🔌 Power electronics (inverters, EMI control, switching converters)
-- 🎛️ Embedded systems (STM32, ATmega, AURIX TC275, bare-metal C)
-- 🛠️ Motor control (FOC, 6-Step, sensorless control, digital PI tuning)
-- 🔋 Battery management systems (BMS, ADBMS6830, passive balancing)
-- 🚀 UAV & drone systems (flight control, hybrid ground-air mobility)
-- 📡 Real-time control & telemetry (CAN, RTOS, hardware abstraction)
-- ✨ Avionics & safety-critical embedded software
+### 🧠 About Me
 
-## 🧠 Blog & Activity
+- 🎓 Undergraduate in **Future Automotive Engineering**, Hanyang Univ.
+- 🏁 Electrical developer at [**RACE Hanyang Formula Student**](https://www.racehanyang.com/)
+- 🔧 Passionate about embedded systems, control theory, and high-performance EVs
 
-- 📘 Tech Blog: [https://clover-clever.github.io](https://clover-clever.github.io)
-- 👨‍💻 GitHub: [@clover-clever](https://github.com/clover-clever)
-- 🏁 Team RACE Hanyang: [www.racehanyang.com](https://www.racehanyang.com/)
+---
 
-## 📬 Contact
+### 🛠️ Interests & Projects
+
+- 🔌 **Power Electronics**: Inverters, SiC/GaN switching, EMI mitigation  
+- 🛠️ **Motor Control**: Sensorless FOC, Deadbeat, 6-Step, Digital PI tuning  
+- 🔋 **Battery Management Systems**: ADBMS6830, passive balancing, CAN monitoring  
+- 🎛️ **Embedded Systems**: STM32, ATmega, AURIX TC275 (bare-metal C, RTOS)  
+- 🚀 **Drones & UAVs**: Dual-mode flight/ground mobility, real-time control  
+- 📡 **Telemetry & Control**: CAN bus, RTOS abstraction, safety-critical SW  
+- 🛰️ **Avionics**: Robust firmware architecture, high-reliability designs  
+
+---
+
+### 📘 Blog & Portfolio
+
+- 🧠 **Blog**: [clover-clever.github.io](https://clover-clever.github.io)  
+- 🏁 **Team**: [RACE Hanyang](https://www.racehanyang.com/)  
+- 💻 **GitHub**: [@clover-clever](https://github.com/clover-clever)
+
+---
+
+### 📬 Contact
 
 - 📧 Email: akdrhaktapfhs1@gmail.com
 
 ---
 
-> This profile is auto-displayed on my GitHub main page.  
-> Check out my blog for Formula Student EV insights, drone control, and power electronics design.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=clover-clever&show_icons=true&theme=tokyonight" width="420">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clover-clever&layout=compact&theme=tokyonight" width="320">
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer">
+</p>
