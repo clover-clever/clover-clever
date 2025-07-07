@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I'm Sanghoon Lee (상훈)</h2>
+<h2 align="center">
 
 <p align="center">
   💡 Future Automotive Engineering @ Hanyang University  
