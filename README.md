@@ -9,10 +9,9 @@
 
 ### 🧠 About Me
 
-- 🎓 Undergraduate in **Future Automotive Engineering**, Hanyang Univ.
-- 🏁 Electrical developer at [**RACE Hanyang Formula Student**](https://www.racehanyang.com/)
-- 🔧 Passionate about embedded systems, control theory, and high-performance EVs
-
+- 🎓 Undergraduate in **Automotive Engineering**, Hanyang Univ.
+- 🏁 [**RACE Hanyang Formula Student**](https://www.racehanyang.com/)
+- 🔧 Passionate about embedded systems, control theory, and power electronics
 ---
 ### 💻 Programming Skills & Tools
 
@@ -28,19 +27,9 @@
 
 ---
 
-### 🛠️ Interests & Projects
-
-- 🔌 **Power Electronics**: Efficiency, Regulators, Inverters, SiC/GaN switching, EMI mitigation  
-- 🛠️ **Motor Control**: Sensorless FOC, Deadbeat, 6-Step, Digital PI tuning   
-- 🎛️ **Embedded Systems**: STM32, ATmega, AURIX TC275 (bare-metal C, RTOS)  
-- 🚀 **Drones & UAVs**: 🌍 Tri-Domain Drone (Land / Air / Sea), real-time control  
-- 🛰️ **Avionics**: Robust firmware architecture, high-reliability designs  
-
----
-
 ### 📘 Blog & Portfolio
 
-- 🧠 **Blog**: [clover-clever.github.io](https://clover-clever.github.io)  
+- 🧠 **Blog**: N/A
 - 🏁 **Team**: [RACE Hanyang](https://www.racehanyang.com/)  
 - 💻 **GitHub**: [@clover-clever](https://github.com/clover-clever)
 
