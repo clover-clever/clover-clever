@@ -1,7 +1,7 @@
 <h2 align="center">
 
 <p align="center">
-  💡 Future Automotive Engineering @ Hanyang University  
+  💡 Automotive Engineering @ Hanyang University  
   🏎️ Formula Student EV | 🔋 Power Electronics | 🚀 Drones | 🎛️ Embedded Systems  
 </p>
 
@@ -11,13 +11,12 @@
 
 - 🎓 Undergraduate in **Automotive Engineering**, Hanyang Univ.
 - 🏁 [**RACE Hanyang Formula Student**](https://www.racehanyang.com/)
-- 🔧 Passionate about embedded systems, control theory, and power electronics
+
 ---
 ### 💻 Programming Skills & Tools
 
 #### 🧬 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 #### 🧰 Tools & Platforms
 ![KiCad](https://img.shields.io/badge/KiCad-314CB3?style=flat-square&logo=kicad&logoColor=white)
