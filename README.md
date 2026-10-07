@@ -1,4 +1,5 @@
-### MOSFET Thief <sup>Whatever sparks curiosity</sup>
+### MOSFET Thief
+<sup>Whatever sparks curiosity</sup>
 
 ---
 
