@@ -7,7 +7,7 @@
 **Formula Student EV** 》[RACE Hanyang](https://www.racehanyang.com/) · Electrical & HV Systems
 
 **Focus** 》Motor Drives · Power Electronics · Embedded Systems  
-**Curiosity** 》Mathematics · Physics · Drones
+**Interest** 》Mathematics · Physics · Drones
 
 **Tools** 》C · MATLAB · KiCad · STM32CubeIDE · CATIA
 
