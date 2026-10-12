@@ -4,10 +4,10 @@
 ---
 
 **SangHoon Lee** 》Automotive Engineering, Hanyang University · Undergraduate  
-**RACE Hanyang** 》[Formula Student EV](https://www.racehanyang.com/) · Electrical & HV Systems
+**Formula Student EV** 》[RACE Hanyang](https://www.racehanyang.com/) · Electrical & HV Systems
 
 **Interests** 》Motor Control · Power Electronics · Embedded Systems  
-**Also** 》Mathematics · Physics · Drones
+**Also into** 》Math · Physics · Drones
 
 **Tools** 》C · MATLAB · KiCad · STM32CubeIDE · CATIA
 
