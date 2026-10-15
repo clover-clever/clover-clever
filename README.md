@@ -1,5 +1,4 @@
-### MOSFET Thief
-<sup>Whatever sparks curiosity</sup>
+![MOSFET Thief — Whatever sparks curiosity](assets/profile-header.svg)
 
 ---
 
